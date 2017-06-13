@@ -9,3 +9,6 @@ $sudo rabbitmqctl add_user  user_admin  passwd_admin
 ```php
 $sudo rabbitmqctl set_user_tags user_admin administrator
 ```
+
+
+[appcode](http://xclient.info/s/appcode.html)
