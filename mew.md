@@ -12,3 +12,6 @@ $sudo rabbitmqctl set_user_tags user_admin administrator
 
 
 [appcode](http://xclient.info/s/appcode.html)
+
+
+[dock](http://www.glx-dock.org/index.php)
